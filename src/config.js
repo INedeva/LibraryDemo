@@ -1,1 +1,1 @@
-export const settings = {host: "https://librarydemo.onrender.com"}
+export const settings = { host: "https://librarydemo.onrender.com"}
